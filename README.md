@@ -38,7 +38,7 @@ This module integrate satellizer, angular-permission and ui-router.
 
 ### provider
 
-- ** $webUserProvider **
+- **$webUserProvider**
 
   config permission for routing
 
